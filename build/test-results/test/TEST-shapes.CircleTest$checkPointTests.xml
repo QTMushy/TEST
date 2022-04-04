@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for the method checkPoint" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-04-04T20:53:05" hostname="Piyushs-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="test1()" classname="shapes.CircleTest$checkPointTests" time="0.007"/>
+  <testcase name="test2()" classname="shapes.CircleTest$checkPointTests" time="0.0"/>
+  <testcase name="test3()" classname="shapes.CircleTest$checkPointTests" time="0.001"/>
+  <testcase name="test4()" classname="shapes.CircleTest$checkPointTests" time="0.0"/>
+  <testcase name="test5()" classname="shapes.CircleTest$checkPointTests" time="0.0"/>
+  <testcase name="test6()" classname="shapes.CircleTest$checkPointTests" time="0.001"/>
+  <testcase name="test7()" classname="shapes.CircleTest$checkPointTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
